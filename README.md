@@ -1,4 +1,13 @@
 # NyayaSaathi ⚖️
+
+## 🌐 Live Demo
+**Live Website:** https://nyaya-saathi-pi.vercel.app
+
+**Backend API:** https://nyayasaathi-api.onrender.com
+
+**GitHub Repository:** https://github.com/nandu-1108/NyayaSaathi
+
+
 ### Legal Awareness for Everyone
 
 **NyayaSaathi** is an AI-powered legal awareness platform designed to help people understand their legal rights, possible consequences, and practical next steps when facing everyday legal problems.
